@@ -47,7 +47,7 @@ Siswa SMP, SMA, SMK, serta pelajar pemula yang ingin menguasai keterampilan dasa
 
 ## d. Panduan Penggunaan
 1. **Buka Situs Web Aktif:** Akses tautan publikasi aplikasi melalui browser (Chrome/Safari/Edge):
-   * **Tautan Live Website:** `https://<username-github-kamu>.github.io/<nama-repositori>/` *(ganti dengan URL GitHub Pages aktif)*
+   * **Tautan Live Website:** `[https://erifayfa.github.io/Skill_Bridge/]`
 2. **Masuk / Buat Akun Lokal:** Ketik **Username** (minimal 3 huruf) dan **PIN 4 Angka**, lalu tekan tombol **Masuk & Mulai Belajar**.
 3. **Pelajari Materi & Kerjakan Kuis:**
    * Buka menu **Ruang Belajar**, pilih bidang (**Teknologi**, **Desain**, atau **Komunikasi**), baca modul hingga selesai, lalu kerjakan kuis untuk memperoleh XP dan Koin.
